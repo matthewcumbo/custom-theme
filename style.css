@@ -1,0 +1,24 @@
+/*
+    Theme name: Custom Theme
+    Text Domain: custom-theme
+    Tested up to: 5.9.2
+    Requires at least: 5.9
+    Requires PHP: 8.0.14
+    Author: Matthew Cumbo
+    Author URL: localhost
+    Description: Test Theme
+    Version: 1.0
+    License: Depending on where you publish this, you would need license of the hosting site
+    Tags: responsive, transition-ready
+    License: GNU General Public License V2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+    */
+
+.footer-dark {
+    background-color: #333;
+}
+
+.footer-light {
+    background-color: #DDD;
+}
